@@ -14,9 +14,7 @@ This application avialable online as  deployed site (https://maeevee.github.io/k
 
 This project is a single page website, in the upper right corner you can find the page navigation area so after clicking on one of these titles, you will be direct to this article on the page:
 
-```md
 ![Navigation](/assets/images/readme_screenshot.jpg)
-```
 
 ## Credits
 
